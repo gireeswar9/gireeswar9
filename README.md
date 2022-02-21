@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on product based companies
 - 📫 How to reach me 
 - email-id:gireeswar169@gmail.com
--         :gireeswarkaduru@gmail.com
+- email-id:gireeswarkaduru@gmail.com
 
 <!---
 gireeswar9/gireeswar9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
